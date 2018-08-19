@@ -1,1 +1,1 @@
-Adding comments via github web browser
+This is my sample repository for mastering github
